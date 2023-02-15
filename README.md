@@ -1,5 +1,5 @@
 # YT_DOWNLOADER
-YT_DOWNLOADER es un programa muy simple con el cual se puede descargar contenido de la plataforma YouTube, haciendo uso de la librería pytube.
+YT_DOWNLOADER es un programa muy simple con el cual se puede descargar contenido de la plataforma YouTube
 
 para hacer uso de este programa es tan simple como instalar la librería pytube.
 
